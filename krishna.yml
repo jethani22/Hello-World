@@ -1,0 +1,10 @@
+my.greeting: Welcome to Sherlock Development
+
+app:
+  name: Config Store
+  description:  Welcome to ${app.name}
+
+db:
+  connection: connection-string-here-from-config-server
+  host: 127.0.0.1
+  port: 1200
